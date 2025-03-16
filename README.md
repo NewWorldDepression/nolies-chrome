@@ -16,3 +16,4 @@ Une extension Chrome qui affiche temporairement le propriétaire du média consu
 ```bash
 git clone https://github.com/tonpseudo/media-ownership-transparency.git
 cd media-ownership-transparency
+pip install requests beautifulsoup4
