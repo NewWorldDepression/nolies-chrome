@@ -1,47 +1,22 @@
 {
     "lemonde.fr": {
-        "proprietaire": "Xavier Niel",
-        "scandales": [
-            {
-                "titre": "Optimisation fiscale via Malte",
-                "description": "En 2017, Xavier Niel a été cité dans les 'Paradise Papers' pour avoir utilisé des mécanismes d'optimisation fiscale à Malte concernant son yacht 'Le Phocéa'.",
-                "source": "https://fr.wikipedia.org/wiki/Xavier_Niel#Domiciliation_d'un_yacht_%C3%A0_Malte_et_soci%C3%A9t%C3%A9s_au_Luxembourg"
-            },
-            {
-                "titre": "Biais médiatique en faveur de Macron",
-                "description": "Le groupe Le Monde a été accusé d’avoir favorisé Emmanuel Macron lors de l’élection présidentielle de 2017 en lui consacrant une couverture médiatique très favorable.",
-                "source": "https://www.monde-diplomatique.fr/2017/05/BENILDE/57494"
-            }
-        ]
+        "propriétaire": "Groupe Le Monde",
+        "scandales": []
     },
-    "lefigaro.fr": {
-        "proprietaire": "Serge Dassault",
-        "scandales": [
-            {
-                "titre": "Affaire des ventes d'armes",
-                "description": "Le Groupe Dassault a été impliqué dans des controverses liées à la vente d'armes à des régimes controversés.",
-                "source": "https://www.osonscauser.com/medias-pourquoi-10-milliardaires-controlent-ils-notre-information/"
-            }
-        ]
+    "bfmtv.com": {
+        "propriétaire": "Inconnu",
+        "scandales": []
     },
-    "liberation.fr": {
-        "proprietaire": "Patrick Drahi",
-        "scandales": [
-            {
-                "titre": "Licenciements massifs",
-                "description": "En 2019, le groupe Altice, propriété de Patrick Drahi, a annoncé un plan de licenciements massifs chez SFR.",
-                "source": "https://www.lemonde.fr/economie/article/2019/08/05/sfr-va-supprimer-5-000-postes-en-france_5496464_3234.html"
-            }
-        ]
+    "cnews.fr": {
+        "propriétaire": "Inconnu",
+        "scandales": []
     },
-    "mediapart.fr": {
-        "proprietaire": "Edwy Plenel",
-        "scandales": [
-            {
-                "titre": "Affaire Bettencourt",
-                "description": "En 2010, Mediapart a révélé l'affaire Bettencourt, un scandale de fraude fiscale impliquant la milliardaire Liliane Bettencourt.",
-                "source": "https://www.mediapart.fr/journal/france/070710/affaire-bettencourt-les-enregistrements-qui-accablent-eric-woerth"
-            }
-        ]
+    "lesechos.fr": {
+        "propriétaire": "Inconnu",
+        "scandales": []
+    },
+    "rt.com": {
+        "propriétaire": "Inconnu",
+        "scandales": []
     }
 }
