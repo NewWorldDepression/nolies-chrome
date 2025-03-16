@@ -1,0 +1,21 @@
+{
+    "manifest_version": 1,
+    "name": "NoLies",
+    "version": "1.0",
+    "description": "This extension will reveal to you who really owns theses media companies.",
+    "permissions": ["scripting", "storage", "activeTab"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icons/icon.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"]
+        }
+    ]
+}
